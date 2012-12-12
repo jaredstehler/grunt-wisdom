@@ -1,19 +1,19 @@
 {
-  "name": "grunt-compliment",
-  "description": "Grunt task for giving you the compliment you deserve. Treat yo' self!",
+  "name": "grunt-wisdom",
+  "description": "Grunt task for dropping wisdom.",
   "version": "0.0.1",
-  "homepage": "https://github.com/iammerrick/grunt-compliment",
+  "homepage": "https://github.com/jaredstehler/grunt-wisdom",
   "author": {
-    "name": "Merrick Christensen",
-    "email": "merrick.christensen@gmail.com",
-    "url": "http://merrickchristensen.com"
+    "name": "Jared Stehler",
+    "email": "jared.stehler@gmail.com",
+    "url": "http://abstractbits.blogspot.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/iammerrick/grunt-compliment.git"
+    "url": "git://github.com/jaredstehler/grunt-wisdom.git"
   },
   "bugs": {
-    "url": "https://github.com/iammerrick/grunt-compliment/issues"
+    "url": "https://github.com/jaredstehler/grunt-wisdom/issues"
   },
   "main": "grunt.js",
   "engines": {
@@ -24,6 +24,6 @@
   },
   "keywords": [
     "gruntplugin",
-    "compliment"
+    "wisdom"
   ]
 }
