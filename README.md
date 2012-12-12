@@ -1,21 +1,22 @@
-## Compliment
+## Wisdom
 
-grunt-compliment is a grunt task that dishes out a compliment whenever you need it. This is a reference project for an article I wrote called [Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html).
+grunt-wisdom is a grunt task that dishes out a wise quote whenever you need it. 
 
 ### Installation
 
-`npm install grunt-compliment -D`
+`npm install grunt-wisdom -D`
 
 ### Setup
 
 ```javascript
 grunt.initConfig({
-  compliment: [
+  // optionally, specify quotes you want
+  wisdom: [
     'You are the greatest!',
     'Please, don\'t ever leave. You give me purpose.'
   ]
 });
 
-grunt.loadNpmTasks('grunt-compliment');
+grunt.loadNpmTasks('grunt-wisdom');
 ```
 
