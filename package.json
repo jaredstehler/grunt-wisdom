@@ -1,7 +1,7 @@
 {
   "name": "grunt-wisdom",
   "description": "Grunt task for dropping wisdom.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/jaredstehler/grunt-wisdom",
   "author": {
     "name": "Jared Stehler",
@@ -20,7 +20,7 @@
     "node": "*"
   },
   "devDependencies": {
-    "grunt": "~0.3"
+    "grunt": "~0.4.0"
   },
   "keywords": [
     "gruntplugin",
